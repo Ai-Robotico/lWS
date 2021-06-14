@@ -1,19 +1,17 @@
+
 ## lightweight Web Server (lWS) for Android
 
-<a href="https://play.google.com/store/apps/details?id=net.basov.lws.r"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="80" alt="Available on Google Play" /></a>
-<a href="https://travis-ci.org/mvbasov/lWS"><img src="https://travis-ci.org/mvbasov/lWS.svg?branch=master" alt="Tavis CI Build Status" /></a>
-<a href="https://f-droid.org/en/packages/net.basov.lws.fdroid/"><img src="https://f-droid.org/badge/get-it-on.png" height="80" alt="Available on F-Droid" /></a>
 
 <table>
   <tr>
     <td width="20%"><img style="max-width:25%;height:auto" src="ic_launcher-web.png" alt="lWS" /><h3 align="center">lWS</h3></td>
     <td width="80%">
-      <h3>It is ...</h3>
+      <h3>A shout out to https://github.com/bodeme ...</h3>
       <ul>
-  <li>... Web Server for static content.</li>
-  <li>... lightweight. APK size less then 100 Kb.</li>
+  <li>Hi, my name is Ow6n - Please, don't allow the 6 confuse you. </li>
+  <li>... APK size less then 100 Kb.</li>
   <li>... as simple as possible. Only essential features implemented.</li>
-  <li>... open. <a href="https://github.com/mvbasov/lWS">Source code</a> released under GPL-3.0.</li>
+  <li>... open. <a href="https://github.com/ai-robotico/lWS">Source code</a> released under GPL-3.0.</li>
   <li>... personal solution. It is not optimized/tested for many parallel connections and large file transfer.</li>
   <li>... network state responsive. Require WiFi connected or tethering enabled. Service stop automatically if network disconnected.</li>
   <li>... connect to lopback interface if no other available.</li>
