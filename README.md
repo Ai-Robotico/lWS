@@ -8,7 +8,7 @@
     <td width="80%">
       <h3>A shout out to https://github.com/bodeme ...</h3>
       <ul>
-  <li>Hi, my name is Ow6n - Please, don't allow the 6 confuse you. </li>
+  <li>Hi, my name is Ow6n - Please, don't allow the 6 to confuse you, Let's Do This </li>
   <li>... APK size less then 100 Kb.</li>
   <li>... as simple as possible. Only essential features implemented.</li>
   <li>... open. <a href="https://github.com/ai-robotico/lWS">Source code</a> released under GPL-3.0.</li>
